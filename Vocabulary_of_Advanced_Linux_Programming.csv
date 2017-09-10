@@ -1,0 +1,476 @@
+preface,,
+fitness,"# noun. 1. the state of being physically healthy and strong
+– > a magazine on health and fitness
+# 2. the state of being suitable or good enough for something
+– > There were doubt about her fitness to hold office.
+= > Every effort has been made to make this book as complete and as accurate as possible, but now warranty or fitness is implied.",
+imply,"# verb. AW. 1. to suggest that something is true or that you feel or think something, without saying it directly 
+– > Are you implying (that) I am wrong?
+# 2. to make it seem likely that something is true or exists | synonym: suggest 
+– > The fact that she was here implies a degree of interest.
+# 3. (of in idea, action, etc) to make something necessary in order to be successful | synonym: mean
+– > The project implies an enormous investment in training. ",
+proofread,"# verb. to read and correct a piece of written or printed work
+– > Has this document been proofread?
+# proofreader (: noun)
+– > to work as a proofreader for a publishing company
+= > proofreader: Debra Neel.",
+bachelor,"# 1. a man who has never been married
+# 2. usually Bachelor: a person who has a Bachelor’s degree (= a first collage degree)
+– > Bachelor of Arts / Engineering / Science
+= > Mark received a bachelor of arts degree in computer science from Harvard in 1994.",
+master,"# noun. 1. {of services} a man who has people working for him, often as servants in his house
+– > They lived in fear of their master.
+# 5. {university degree} (also master’s degree) a second university degree
+– > He has a Master’s in Business Administration.",
+doctor,"# noun. a person who has been trained in medical science, whose job is to treat people who are sick or injured
+– > You would better see a doctor about that cough.
+# 2. a person who has received that highest university degree
+– > a Doctor of Philosophy / Law 
+= > He obtained a doctor of philosophy degree from Stanford in 2000.",
+expert,"# noun. AW. a person with special knowledge, skill or training in something
+– > a computer / medical expert 
+# adjective. down with, having, or involving great knowledge or skill
+– > an expert driver
+– > to seek expert advice / an expert opinion
+# + adverb. expertly 
+– > The music was expertly performed.",
+presently,"# adverb. at the time you are speaking or writing; now | synonym: currently 
+– > There are courses presently available. 
+= > He presently works as an online producer for scifi.com.",
+obsess,"# verb. [obsess something] to completely fill you mind so that you cannot think of anything else, in a way that is not normal
+– > He is obsessed by computers.
+# 2. [obsess (about something)] to be always taking or worrying about a particular thing, especially when this annoying other people
+– > I think you should try to stop obsessing about food.
+= > At home he runs Debian GNU/Linux and obsesses about such topics as system administration, security, software internationalization, and XML.",
+entice,"# verb. to persuade someone or something to go somewhere or to do something, usually by offering them something | synonym: persuade 
+– > The animals refused to be enticed from its hole.
+– > Try to entice your son to eat by offering small portions of his favorite food.
+= > This opportunity has enticed thousands of capable developers worldwide to contribute new components and improvement to GNU/Linux.",
+rival,"# a person, company, or thing that compete with another in sports, business, etc
+– > Japan was their biggest economic rival.
+# adjective. a rival bid / claim / offer 
+# verb. (l or ll) to be as good, impressive, etc as someone or something else | synonym: compare with
+– > Golf cannot rival basketball for excitement. 
+= > The modern GNU/Linux systems rival the features of any proprietary system and distributions.",
+span,"# noun. 1. the length of time that something lasts or is able to continue 
+– > The project must be completed within a specific time span.
+# verb. to last all through a period of time or to cover the whole of it
+– > His acting career spanned 55 years.",
+sophisticate ,"# noun. a sophisticated person
+– > She was not the sophisticated that Jack had imagined her to be",
+sophisticated,"# adjective. 1. having a log of experience of the world and knowing about fashion, culture, and other things that people think are socially important 
+– > Mark is a smart and sophisticated young man. 
+# 2. (of a machine, system, etc) advanced and complicated in the way that it works or presented
+– > highly sophisticated computer systems
+= > GNU/Linux’s APIs provide access to sophisticated features such as interprocess communication, multi-treading and high performance networking.",
+predate,"# (also antedate) verb. [predate something] to be built or formed, or to happen, at an earlier date then something else in the past | opposite: postdate 
+– > Few of the town’s fine building predate the earthquake of 1755
+= > A great deal of this software predate the Linux kernel.",
+postdate,"# to happen, exist, or be made at a later date than something else in the past | opposite: predate ",
+peculiar,"# adjective. 1. strange or unusual, especially in a way that is unpleasant or worrying | synonym: odd
+– > a peculiar smell / taste 
+– > For some peculiar reason, she refused to com inside.",
+peculiarity ,"# noun. (plural: peculiarities) 1. a strange or unusual feature or habit
+– > a physical peculiarity
+# 2. a feature that only belongs to one particular person, thing, place, etc | synonym: characteristic 
+– > the cultural peculiarities of Americans 
+= > To develop GNU/Linux you need to know the peculiarities of the system, its limitations, additional capabilities, and conventions. ",
+applicable,"# adjective. that can be said to be true in the case of someone or something | synonym: relevant
+– > Much of the form was not applicable (= did not apply) to me.
+= > The information in this book is equally applicable to C++ program.",
+lingua franca ,"# noun. a shared language of communication used between people whose main languages are different 
+– > English has become a lingua franca in many part of the world.
+= > C languages APIs and conventions are the lingua franca of GNU/Linux.",
+convention,"# noun. AW. 1. a large meeting of the members of a profession, a political party, etc | synonym: conference 
+– > to hold a convention 
+# 2. the way in which something is done that most people in society expect and consider or be polite or the right way to do it
+– > social convention
+– > By convention the co-chair was always a woman.
+= > This book follows a few typographical convention.",
+typography,"# noun. the art of work of preparing books, etc for printing, especially designing how text will appear when it is printed
+# adjective form: typographical and typographic 
+– > a typographical error
+# adverb form: typographically ",
+typo,# plural: typos. (informal) a small mistake in a typed or printed text.,
+,,
+Getting Started,# 1,
+,,
+accustom,"# phrasal verb. accustom yourself / someone to something: to make yourself/someone familiar with something or become used to it
+– > It took him a while to accustom himself to the idea.",
+accustomed,"# adjective. familiar with something and accepting it is normal or usual | synonym: used to
+– > My eyes slowly grew accustomed to the dark.
+– > This was not the kind of behavior I was accustomed to.
+= > If you are already accustomed to programming under Linux, you can skip ahead to Chapter 2.",
+versus,"# preposition. (abbreviation: v. or vs.) 1. (sports or law) used to show that two teams or sides are against each other 
+– > It is Texas versus Nebraska in the championship game.
+# 2. used to compare two different ideas, choice, etc
+= > Pay careful attention to Section 2.3 “writing and using library”, for more information about static versus dynamic linking that you might not already know.",v
+contrast,"# noun. AW. 1. a different between two or more people or things that you can see clearly when they are compared or put close together; the fact of comparing two or more things in order to show the differences between them
+– > There is obvious contrast between the cultures East and West. 
+= > We will occasionally point out similarities and contrast between Windows and Linux.",
+affectionate,"# adjective. showing caring feeing and love for someone | synonym; loving 
+– > He is very affectionate toward his children 
+– > an affectionate kiss
+# + adverb form: affectionately 
+– > William was affectionately known as Billy.
+= > Emacs (text editor) is affectionately known as the One True Program, or just OTP for short.",
+acquaint,"# [acquaint someone/yourself with something]: (formal) to make someone/yourself familiar with or aware of something 
+– > Please acquaint me with the fact of the case.
+– > You will first need to acquaint yourself with the filing system.
+= > If you want to get a little better acquainted with Emacs, choose the Emacs Tutorial entry on the help menu.",
+ambition,"# [C] 1. something that you want to do to achieve very much
+– > It had been her lifelong ambition",
+ambitious,"# adjective. 1. determined to be successful, rich, powerful, etc
+– > a fiercely ambitious young manager 
+= > If you are ambitious, you can program Emacs to perform literally any kind of automatic formating you can imagine.",
+manifest,"# formal, verb. [manifest something (in something)] to show something clearly, especially a feeling, an attitude, or a quality | synonym: demonstrate 
+# 2. manifest itself (in something): to appear to become noticeable |  synonym: appear 
+– > The symptoms of the disease manifested themselves ten days later.
+= > Also, in certain instances, compiling with optimization can uncover bugs in your program that did not manifest themselves previously.
+# adjective: formal, easy to see or understand ",
+correspond,"# verb. AW. 1. to be the same as or match something | synonym: agree, tally
+– > Your account and hers do not correspond. 
+# 2. to be similar to or the same as something else | synonym: equivalent 
+= > The British job of Lecturer corresponds roughly to the U.S. job of Associate Professor.
+= > The object file should be rebuild whenever the corresponding source files change.",
+convey,"# verb 1. to make ideas, feeling, etc known to someone | synonym: communicate 
+– > Colors like read convey a sense of energy and strength.
+= > You can convey all the information to make by putting the information in a file named Makefile.
+# 2. (formal) to take, carry, or transport someone or something from one place to another 
+– > Pipe convey hot water from the boiler to the radiators.",
+trivial,"# adjective. not important; not worth considering 
+– > a trivial detail
+– > I know it sound trivial, but I am worried about it.
+= > If you now change main.c in some trivial way and type make again, you will see the following…",
+confirm,"# verb. AW. 1. to state or show that something is definitely true or correct, especially by providing evidence 
+– > His guilty expression confirmed my suspicions.
+= > The above command confirms that the problem is indeed a NULL pointer passed into atoi.",
+denote,"# verb. formal. AW. to be sign of something | indicate 
+– > A very high temperature often denote a serious illness.
+# 2. to mean something | synonym: represent 
+– > In this example X denotes the time taken and Y denotes the distance covered.
+= > The number denote man page sections.",
+reside,"# verb. AW. + adverb / preposition, formal. to live in a particular place
+– > He returned to the US in 1939, having resided abroad for may years.
+= > There header file reside in /usr/include and /usr/include/sys.",
+verify,"# verb. 1. to check that something is true or accurate 
+– > We have no way to verifying his story.
+# 2. [verify something | verify that …] to show or say that something is true or accurate | synonym: confirm 
+– > Her version of events was verified by neighbors. 
+= > … take a look in the corresponding header file to verify that the function’s signature is the same as what is listed in the man page.",
+inquire,"# (also enquire) verb. (somewhat formal) to ask someone for some information 
+– > I called the school to inquire about the application process
+# thesaurus: ask, inquire, demand ",
+inquirer ,# a person who asks for information ,
+inquiring,"# adjective. 1. showing an interesting in learning new things
+– > a child with an inquiring mind
+= > There header files make a good reading for inquiring minds.",
+arbiter,"# [arbiter (of something)] a person with the power of influence to make judgment and decide what will be done or accepted
+– > The law is the final arbiter of what is considered obscene
+= > The final arbiter of how the system works in the system source code itself.",
+entitle,"# verb. 1. to give someone the right to have or to do something 
+– > You will be entitled to your pension when you reach 65.
+= > … if not; you are entitled under the term of the GNU General Public License to request it from the distributer.
+# 2. [entitle something + noun] to give a title to a book, play, etc
+– > He read a poem entitled “Salt”.",
+,,
+nitty-gritty,"# [ the nitty-griity] [singular] (informal) the basic or most important details of an issue or a situation 
+– > Time ran out before we could get down to the real nitty-gritty.
+= > On Linux systems. a lot of the nitty-griity details of how the the system call work are referenced in header files in the directories /usr/include/bits, ….",
+,,
+chapter 2,"# Writing Good GNU/Linux Software, part 1",
+,,
+guide,"# noun. 1.{person} a person who shows other people the way to a place, especially someone employed to show tourists around interesting places 
+– > a tour guide 
+# verb. { show the way } 1. [guide someone] to show someone the way to a place, often by going when them; to show someone a place that you know well
+– > She guided us through the busy streets to the cathedrad.",
+guideline,"# noun. AW. 1. guidelines [plural] rules or instructions the are given by an official organization telling you how to do something, especially something difficult
+– > The government has issued guidelines for controlling infection.
+= > By following the guidelines presented, you will be able to write programs that work well within the GNU/Linux environment.
+# 2. [C] something that can be used to help you make a decision or form an opinion 
+– > The figures are a useful guideline when buying a house.",
+originate,"# verb. formal. (+ adverb/preposition) to happen or appear for the first time in a particular place or situation 
+– > The disease is thought to have originated in the tropics.
+= > More generally, this is referred to as the program’s argument list because it need not originate form a shell command line.
+# 2. to create something new
+– > Locks originated this theory in the 17th century.
+# +noun: originator 
+– > Sir William James is thought to be the originator of fingerprinting as a means of identification.",
+brief,"# adjective. ( briefer, briefest ). 1. lasting only a short time; short
+– > a brief visit / meeting / conversation ",
+briefly,"# adverb. AW. 1. for a short time
+– > She saw John briefly on Friday night.
+# 2. in a few words
+– > Briefly, the argument is as follows…",
+brevity,"# [U]. formal. 1. the quality of using few words when speaking or writing 
+– > The report is a masterpiece of brevity 
+= > Usually a program provides both a short option and a long option form for most options it supports, the former for brevity and the latter for clarity.",
+clarity,"# [U]. noun. AW. 1. the quality of being expressed clearly
+– > a lack of clarity in the law",
+clarify,"# verb. AW. formal. 1. to make something clearer or easier to understand 
+– > to clarify a situation / problem / issue ",
+-fy or -ify,"# suffix (in verbs) to make or become
+– > purify ",
+tedious,"# adjective. lasting or taking too long and not interesting | synonym: boring 
+– > We had to listen to the tedious details of his operation. 
+= > Parsing command-line options is a tedious chore.
+# thesaurus of boring: dull, tedious 
+# boring: not interesting and making you feel tired and impatient 
+# dull: not interesting or exciting: Life in a small town can be extremely dull.
+# tedious: lasting or taking too long and not interesting, so that you feel bored and impatient 
+# +adverb: tediously 
+# +noun: tediousness [U]",
+circumstance,"# noun. AW. [C]. (usually plural) the condition and facts that are connected with and affect a situation, an event, or an action
+– > I know I can trust her in any circumstance.
+= > In normal circumstances, the first field is the name of the long option; ….
+# thesaurus of situation: circumstances, position, conditions, things, the case, state of affairs 
+# collocations:
+# in / under certain circumstance
+# exceptional / special circumstance 
+# normal circumstance
+# suspicious circumstance 
+# unusual circumstance",
+encounter,"# verb. AW. 1. [encounter something] to experience something, especially something unpleasant or difficult, while you are trying to do something else | synonym: meet with, run into
+– > We encountered a number of difficulties in the first week.
+= > if getopt_long encounters an invalid option it prints an error message and returns the character ‘?’.
+# 2. formal. to meed someone, or discover or experience something, especially someone or something new, unusual or unexpected | synonym: come across
+– > She was the most remarkable woman he had ever encountered
+# longman.dic: in every day English people usually say: come across problems/difficulties rather than encounter
+– > Did you come across any problems?",
+respect,"# noun. a feeling of admiration for someone or something because of their good qualities or achievement 
+– > I have the greatest respect for you brother.
+# verb. to have very good opinion of someone or something; to admire something or something
+– > I respect Jack’s opinion on most subjects.",
+respective,"# adjective. belonging or relating separately to each of the people or things already mentioned 
+– > the respective roles of men and women in society
+– > We all went back to our respective homes to wait for news.",
+respectively,"# adverb. in the same order as the people or things already mentioned 
+– > Julia and Mark, aged 17 and 19 respectively.
+= > The standard C library provides standard input and output streams (stdin and stdout respectively).",
+customary,"# adjective. 1. if something is customary, it is what people usually do in a particular place or situation | synonym: usual 
+– > Is it customary to tip hairdressers in this country?
+= > Int the UNIX tradition, use of standard input and output is customary for GNU/Linux programmers.",
+precede,"# verb. AW. [precede (someone/something)] to happen before something or come before something or someone in order
+– > See the preceding chapter
+= > Note that 2>&1 must follow a file redirection (the first example) but must precede a pipe redirection (the second example).",
+precedence,"# noun. AW. the condition of being more important than someone else and therefore coming or being dealt with first | synonym: priority
+– > She had to learn that her wishes did not take precedence over other people’s needs.",
+flash,"# verb. { shine brightly } 1. to shine very brightly for a short time; to make something shine in this way
+– > Lightening flashed in the distance
+– > the flashing blue lights of a police car",
+flush,"# verb. 1. (of a person or their face) to become red, especially because you are embarrassed, angry, or hot
+– > She flushed with anger.
+# 2. [flush something] when a toilet flushes or you flush it, water passes through it to clean it, after a handle, etc
+= > You can explicitly flush the buffer by calling the following: fflush( stdout );.",
+distinguish,"# verb. to recognize the difference between two people or things | differentiate 
+– > [distinguish between A and B] At what are are children able distinguish between right and wrong? 
+= > Some programs usu different nonzero exit code values to distinguish specific errors.",
+enumerate,"# verb. formal. to name things on a list one by one
+– > She enumerated the main points.
+– > Let me enumerate the benefits for you.
+= > Enumerating all the variables in the environment is a little trickier.
+# +noun: enumeration",
+collide,"# verb. if two people, vehicle, etc collide, they crash into each other; if a person, vehicle, etc collide with another or with something that is not moving, they crush into it
+– > The car and the van collided had-on in think fog.
+= > Te instances should use different temporary filenames so that they do not collide.
+# thesaurus of crash: slam, collide, smash, wreak ",
+authorize ,"# verb. to give official permission for something, or for someone to do something 
+– > [authorize something] I can authorize payment up to $5.000.",
+unauthorized ,"#  without official permission
+– > unauthorized use of public funds 
+= > The file permissions of the temporary file should by set in such a way that unauthorized users cannot alter the program’s execution by modifying or replacing the temporary file.",
+alter,"# verb. AW. 1 to become different; to make someone or something different
+– > Prices did not alter significantly during 2010.
+# longman.dic: to change or to make someone or something change 
+– > Her face had not altered much over the years.
+# thesaurus (to change something)
+# change: to make someone or something different 
+# alter (especially written) to change something so that is better or more suitable 
+# adapt: to change something slightly in order to improve it
+# adjust: to make small changes in the position 
+# modify: (especially written)  to make a small changes to something such as a piece of equipment, a set of ideas in order to improve it
+# and: reform, revise, reorganize, restructure",
+exploit,"# verb. AW. 1. [exploit something] (disapproving) to treat a person or situation as an opportunity to gain an advantage for yourself
+– > He exploited his father’s name to get himself a job.
+– > She realized that her youth and inexperience were being exploited.
+= > …; otherwise, an attacker exploit the delay between testing whether a given name is already in use nad opening a new temporary file.",
+render,"# verb. 1. { cause someone or something to be something } formal. to cause someone or something to be in articular state or condition | synonym: make
+– > to render something harmless / useless / ineffective 
+= > Programmers should be very careful to clean up temporary files; otherwise  the /tmp file system will fill up eventually, rendering the system inoperable.",
+rendering,"# 1. the performance of a piece of music, a role in a play, etc; the particular way in which something is performed | synonym: interpretation, rendition ",
+operable,"# adjective. 1. that function, that can be used
+– > When will the new system be operable?
+# (of a medical condition) that can be treated by an operation ",
+inoperable,"# 1. ( of an illness, especially cancer)  not able to be cured by a medical operation 
+– > an inoperable brain tumor
+# 2. formal. that cannot be used or made to work; to practical
+– > The policy was thought to be inoperable.",
+suffer,"# S1, W1, verb. to experience physical or mental pain
+– > At least he died suddenly and did not suffer.
+# in everyday English people usually say that someone has a medical condition rater then suffering from it.
+– > Both her children have asthma.
+= > Do not use these functions, though, because they suffer from the reliability and security problems already mentioned.",
+,,
+chapter 2,"# Writing Good GNU/Linux Software, part 2",
+,,
+defend,"# verb. {protect against attack} 1. to protect someone or something form attack
+– > All our officers are trained to defend themselves against knife attacks.",
+defender,"# noun. 1. a person who defends and believes in protecting something 
+– > a passionate defender of human right
+# 2. a player who must stop the other team form scoring in games such as soccer, hockey, etc",
+defensive,"# adjective. 1. protecting someone or something against attack
+– > a defensive measure 
+# + defensively 
+= > coding defensively 
+# + defensiveness",
+grace,"# noun. {of movement} 1. [U] an attractive quality of movement that is smooth, elegant and controlled
+– > She moves with the nature grace of a ballerina.
+# verb. 1. [grace something] to make something more attractive; to decorate something
+– > We sat at a small table graced with a vase of fresh flowers.",
+graceful,"# adjective. 1. moving in controlled, attractive way or having a smooth, attractive form
+– > The dancers were all tall and graceful.
+# + gracefully
+– > Deer ran gracefully between the trees.
+= > Writing programs that run correctly under ‘normal’ use is hard; writing programs that behave gracefully in failure situation is harder.",
+detect,"# verb. AW. [ detect something ] to discover or notice something, especially something that is not easy to see or hear, etc
+– > The test are designed to detect the disease early. 
+# thesaurus of notice: note, detect, observe, witness 
+# + detectable AW opposite of undetectable ",
+detection,"# noun. AW. [U] the process of detecting something; the fact of being detected
+– > Early detection of cancer is vitally important. ",
+detective,"# noun. abbreviation: Det. 1. a person, especially a police officer, whose job is to examine crimes and catch criminals 
+# see private detective",
+detector,"# a piece of equipment for discovering the pressure of something, such as metal, smoke, explosions, or changes in pressure or temperature 
+– > a smoke detector",
+obscure ,"# adjective. 1. not well done | synonym: unknown 
+– > He was born around 1650 but his origins remain obscure.
+# 2. difficult to understand 
+# verb. [obscure something] to make it difficult to see, hear, or understand something 
+– > The view was obscured by fog. (fog: a thick could of very small drops of water in the air close to the land )",
+extensive,"# adjective. 1. covering a large area; great in amount
+– > The house has extensive grounds.
+# 2. including or dealing with the wide range of information | synonym: far-reaching 
+– > Extensive researches has been done into this disease.
+= > The code samples presented later in this book deliberately skip extensive error checking and recovery code because the would obscure the basic functionality.",
+robust,"# adjective. 1. strong and healthy 
+– > She was almost 90, but still very robust.
+# 3. (of a system or an organization) strong and not likely to fail or become weak
+– > robust economic growth
+= > A sample GNU/Linux applications comes back to demonstrating how to use these techniques to write robust programs. ",
+objective,"# noun. 1 something that you are trying to achieve | synonym: goal 
+– > The main objective of this meeting is to give more information on our plans.
+= > A good objective to keep in mind when coding applications program is that ….",
+exhibit,"# verb. AW. 1. to show something in a public place for people to enjoy or to give them information
+– > Only one painting was exhibited in the artist’s lifetime.
+# 2. synonym: display
+– > The patient exhibited sings of fatigue and memory loss.
+= > Failures that do not exhibit themselves dramatically are often missed and do not show up until the application is in users hands.",
+impose,"# verb. AW. [impose something (on/upon something/someone)] to introduce a new law, rule, tax, etc to order that a rule, punishment, etc be used
+– > A new tax was imposed on fuel.
+# 2. to force someone or something to have to deal with something that is difficult or unpleasant 
+– > This system imposes additional functional burdens on may people.
+= > For performance-critical code, runtime checks such as uses of assert can impose a significant performance penalty.",
+significant ,"# adjective. AW. 1. large or important enough to have an effect or to be noticed
+– > a highly significant discovery ",
+penalty,"# plural: penalties. 1. punishment for breaking a law, rule, or contract 
+– > to impose a penalty 
+# 2. a disadvantage suffered as a result of something 
+– > One of the penalty of fame is the loss the privacy.
+## fame: noun. the state of begin known and talked about many people ( see famous )",
+tempt,"# verb 1. to attract or make someone want to do or have something, even if they know it is wrong
+– > I was tempted by the desert menu.
+= > You might be tempted to write: assert( do_something() == 0 );
+# 2. to persuade or try to persuade someone to do something that you want them to do, for example by offering them something
+– > How can we tempted young people into engineering?",
+cryptic,"# with a meaning that is hidden or not easily understood | synonym: mysterious 
+– > a cryptic message  / remark / smile 
+= > Users do not like it when applications simply crash into a cryptic error messages.
+# +adverb form: cryptically ",
+encrypt,"# verb. [encrypt something] (computing) to put information into a special code, especially in order to prevent people from looking at it with authority  | opposite: decrypt 
+# + noun form: encryption",
+informative,"# giving useful information 
+– > The talk was both informative and entertaining 
+= > The error message generated by {assert (pointer != NULL)}; is more informative than the error message result if your program dereferenced a null pointer: or Segmentation fault (core dumped)",
+hold back,"# hold back (from doing something) to hesitate or to make someone hesitate to actor speak 
+– > She held back, not knowing how to break the terrible news.
+– > I wanted to tell him the truth, but something held me back.
+= > Do not hold back; use assert liberally throughout your programs.",
+hesitate,"# verb. to be slow to speck or act because you feel uncertain or nervous
+– > She hesitated before replying.",
+liberal,"# adjective. AW. willing to understand and respect other people’s behavior, opinion, etc
+– > liberal attitude / view / opinions 
+# + adverb form: liberally
+– > Apply the cream liberally ",
+intrude,"# to go or be somewhere where you are not wanted or are not supposed to be
+– > I am sorry to intrude, but I need to talk to someone.
+= > The realities of computers hardware and software intrude into this idealized dream.",
+exceed,"# verb. formal. 1. [exceed something] to be greater than a particular number or amount
+– > The price will not exceed $100.
+# 2. to do more than the law or an order, etc, allows you to do
+– > She was exceeding the speed limit (= driving faster than is allowed).
+= > The system can run out of resources (or the program can exceed the resources limits enforced by the system of a single program).",
+faulty,"# adjective. 1. not perfect; not working or make correctly | synonym: defective 
+– > Ask for a refund if the product is faulty.
+= > The device might be faulty or might not support a particular operation.",
+defect,"# noun. a fault in something or in the way it has been made that means that it is not perfect
+– > a speech defect
+– > a defect in the glass",
+outright,"# adjective. 1. complete and total
+– > She was the outright winner.
+= > This might not indicate outright failure, but it is the responsibility of the calling program to restart the system call. if desired.",
+devote,"# verb. to give most or your time, energy, attention, etc. to someone or something 
+– > She devote herself to her career.
+# to give an amount of time, attention, etc to something
+– > I could only devote two hours a day to the work
+= > In a well-written program that makes extensive use of system calls, it is often the case that more code is devoted (= dedicate) to detecting and handling errors and other exceptional circumstances than to the main work or the program.",
+postmortem,"# a medical examination of th body of a deal person in order to find out how they died | synonym: autopsy 
+– > To do / conduct / carry out a postmortem 
+= > ‘assert’ macro can be useful for postmortem debugging.",
+clobber,"# verb. informal. [clobber someone] to hit someone very bad
+– > If you do it again, I will clobber you!
+# 3. to defeat someone completely
+– > We got clobbered in the game an Saturday.
+= > Save ‘errno’ because it is clobbered by the next system call.",
+outlive,"# verb. 1. to live longer than someone
+– > He outlived his wife by there years.
+# 2. [outlive something] to continue to exist after something else has ended or disappeared
+– > The machine had outlived its usefulness (= was no longer useful).
+= > You might need to manually free other shared resources, however, such as temporary files and shared memory, which can potentially outlive a program.",
+deploy,"# 1. [deploy someone/something] (technical) to move soldiers or weapons into a position where they are ready for military action
+– > 2,000 troops were deployed in the area.
+– > At least 5,000 missiles were deployed along the border.
+= > If you choose to link statically, your program will be bigger and harder to upgrade, but probably easier to deploy.
+# 2. to use something effectively ",
+trade-off,"# noun. [trade-off (between something and something)] the act of balancing two things that are opposed to each other
+– > a trade-off between increased production and a reduction in quality.
+= > This section explains how to link both statically, and dynamically, examines the trade-off in more details.",
+mutual,"# adjective. AW. 1. used to describe feeling that two or more people have for each other equally, or actions that affect two or more people equally
+– > mutual respect / understanding 
+# + noun form: mutuality 
+# + adverb form: mutually 
+– > Can we find a mutually convenient time to meet?
+= > Occasionally, two libraries will be mutually dependent.",
+arise,"# verb. (#2 arose, #3 arisen) formal (especially of a problem or a difficult situation) to happen; to start exist | synonym: occur
+– > A storm arose during the night.
+= > This situation generally arises out of poor design.",
+substantial,"# adjective. 1. large in amount, value, or importance | synonym: considerable 
+– > substantial sums of money
+= > However substantial reasons exist to use static library.",
+mission-critical,"# adjective. essential for an organization or function successfully
+– > mission-critical employee 
+= > For example if you developing mission-critical software, you might link your program to a static archive so that an upgrade to shared library on the system will affect your program.",
+thereby,"# adverb. formal. AW. used to introduce the result of the action or situation mentioned 
+– > Regular exercise strengthens the heart, thereby reducing the risk of heart attack.
+= > Otherwise, users might upgrade the shared library, thereby breaking your program.",
+burden,"# verb. to give someone duty, responsibility, etc that cause worry, difficulty, or hard work
+– > I do not want to burden you with my worries | opposite: unburden
+# noun.  a duty, responsibility, etc that cause worry, difficulty or hard work
+– > The main burden of caring for old people falls on the family.
+= > Because each user has to do this individually, this is a substantial additional burden.",
+mangle,"# verb. [mangle something] to crush or twist something so that it is badly damaged
+– > His hand was mangled in the machine.
+= > This prevents the C++ compile from mangling the function name, which would changed the function’s name form ‘foo’ to a different funny-looking name.
+# noun. (also winger) a machine with two rollers used especially in the past for squeezing the water out of clothes that had been washed ",
+,,
+chapter 3,# Processes,
