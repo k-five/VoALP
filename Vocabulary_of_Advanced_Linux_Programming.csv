@@ -474,3 +474,123 @@ mangle,"# verb. [mangle something] to crush or twist something so that it is bad
 # noun. (also winger) a machine with two rollers used especially in the past for squeezing the water out of clothes that had been washed ",
 ,,
 chapter 3,# Processes,
+,,
+cooperate,"# to work together with someone else in order to achieve something 
+– > The two groups agreed to cooperate with each other.
+– > They had cooperated closely in the planning of the project.
+= > Advanced programmers often use multiple cooperate processes in a single application to enable the application to do more than one things at once …",
+thus,"# adverb. formal. 1. as a result of something just mentioned | synonym of hence, therefore 
+– > He is the eldest son and thus heir to the estate.
+= > Every process also have a parent process. Thus you can think of the processes on a Linux system as arranged in a tree with the init process as tis root.
+# 2. in this way; like this
+– > Many scholars have argued thus",
+observe,"# (not used in the progressive tense) to see or notice someone or something
+– > Have you observed any changes lately?
+# thesaurus of comment: note, remark, observe",
+variant,"# noun. AW. a thing that is a slightly different from or type of something else
+– > This game is a variant of baseball. 
+= > The GnU/Linux version of ps has lots of options because it ties to to be compatible with versions of ps on several other UNIX variants.
+# +adjective form: variant 
+– > variant forms of spelling ",
+invocation,"# noun. 1 (formal) the act of asking for help, from a gold a person in authority; the act of referring to something or of calling for something to appear 
+# 2. (computing) the act of making a particular function start
+= > This invocation of ps shows two processes.",
+relative,"# 1. considered and judged by being compared with something else
+– > the relative merits of the two plans",
+relatively,"# to a fairly large degree, especially in comparison to something else
+– > I found the test relatively easy.
+= > Two common techniques are used for creating a new process. The first in relatively simple. (= using system() function)",
+sparing,"# adjective. careful to use or give only a little of something 
+– > Doctors now advice only sparing use of such creams.
+# +adverb form: sparingly
+– > Use the cream very sparingly
+= > The first is relatively simple but should be used sparingly because it is inefficient and has considerably security risks.",
+flaw,"# noun. 1. a mistake in something that means that it is not correct or does not work correctly | synonym: defect, fault
+– > The argument is full of fundamental flaws.
+= > Because the system function uses a shell to invoke your command, it is subject to the features, limitations, and security flaws of the system’s shell.",
+subject,"# adjective. [subject to something] likely to be affected by something, especially something bad
+– > Flights are subject to delay because of the fog.
+– > Smokers are more subject to heart attack than non-smokers.",
+privilege ,"# noun. a special right or advantage that a particular person or group of people has
+– > Educational should be a universal right and not a privilege.
+– > Try not to abuse the privilege of being allowed more freedom.
+= > Invoking a program with root privilege with the system function, for instance, can have different results on different GNU/Linux systems.",
+cease,"# verb. /sis/ formal. to stop happening or existing; to stop something from happening or existing
+– >  You never cause to amaze me!
+= > … the exec family, that causes a particular process to cease being an instance or one program and to instead become an instance of another program.",
+spawn ,"# verb (of fish, frogs, etc) to lay eggs
+= > To spawn a new process, you first use fork() to make a copy fo the current process. 
+# noun. a soft substance containing the eggs of fish, flogs, etc",
+distinct,"# adjective. 1. easily or clearly heard, seen, felt, etc
+– > There was a distinct smell of gas.
+# 2. clearly different or of a different kind
+= > So how do the processes differ? First, the child process is a new process and therefore has a new process ID, distinct from its parent’s process ID.",
+analogous,"# adjective. formal. [analogous (to/with something)] similar in some way to another thing or situation and therefore able to be compared with it
+– > Sleep has often been thought of as being in some way analogous to death.
+= > The argument list passed to the program is analogous to the command-line argument that you specify to a program when you run it from the shell.",
+converse,"# verb. formal. to have a conversation with someone 
+– > She conversed with the Romanians in French.
+– > The two men were conversing on music and opera.",
+converse 2,"# noun. singular. formal. usually the converse: the opposite or reverse of a fact or statement
+– > Building new roads increases traffic and the converse is equally true; reducing the number and size of roads means less traffic",
+conversely,"# adverb. formal. in a way that is the opposite or reverse of something
+– > You can add fluid to the powder, or, conversely, the powder to the fluid.
+= > A higher niceness value means that the process is given a lesser execution priority; conversely, a process with a lower (that is negative) niceness gets more execution time.",
+disposition,"# the natural qualities of a person’s character | synonym: temperament 
+– > to have a cheerful disposition 
+– > people with a nervous disposition
+# 3. (formal) the way something is placed or arranged | synonym: arrangement 
+= > When a process receive a signal, it may do one of several things, depending on the sign’s disposition.
+= > For each signal, there is a default disposition, which determines what happens to the process if the program does not specify some other behavior.",
+fragile,"# adjective. 1. easy to broken or damaged
+– > fragile china / glass / bones
+– > Be careful not to drop it; it is very fragile.
+= > Because signals are asynchronous, the main program may be in a very fragile state when a signal is processed and …",
+periodic,"# adjective. AW. happening fairly often and regularly 
+– > Periodic checks are carried out on the equipment.
+# +adverb form: periodically 
+– > Periodically, we meet to discuss any problems.
+= > The main program then checks periodically whether a signal has occurred and reacts accordingly.",
+diagnose,"# verb. to say exactly what an illness or the cause of a problem is
+– > The test is used to diagnose a variety of diseases.
+= > While this may sound like a rare occurrence, if it does occur, ti will be very difficult to diagnose and debug the problem.",
+corrupt,"# adjective. (of people) willing to use their power to do dishonest or illegal things in return for money or to get an advantage 
+– > a corrupt regime 
+# 2. (of behavior) dishonest or immoral
+# 3. (computing) containing changes or faults, and no longer in the original state
+– > corrupt software
+# +adverb form: corruptly 
+# verb. to have a bad effect on something and make them behave in an immoral or dishonest way
+– > He was corrupted by power and ambition.
+= > … a second signal may occur between them, leaving the variable in a corrupted state.",
+midway,"# adverb. in the middle of a period of time; between two place | synonym: halfway
+– > The hotel is situated midway between the two airports.
+= > Linux guarantees that assignment to variables of this type are performed in a single instruction and therefore cannot be interrupted midway.",
+skeleton,"# noun. the structure of bones that supports the body of a person or an animal; a model of this structure
+– > The human skeleton consists of 206 bones.
+# 3. the main structure that supports a building, etc | framework 
+– > Only the concrete skeleton of the factory remained.
+# 4. the basic outline of a plan, piece or writing, etc to which more details can e add later
+= > This program skeleton in Listing 3.5 for instance, uses a single-handler function to count the number of time …",
+troublesome,"# adjective. causing trouble, pain, etc over a long period of time | synonym: annoying
+– > a troublesome cough / child / problem",
+statistic,"# noun. AW. 1. statistics (also informal: stats) a collection of information shown in numbers 
+– > crime / unemployment etc statistics 
+# 3. (also informal stat)[C] a piece of information shown in number
+– > An important statistic is that 94 percent of crime relates to property.
+= > the wait3 functions returns CPU usage statistics about the existing child process,  and …",
+vanish,"# verb. to disappear suddenly and/or in a way that you cannot explain 
+– > He turned around and vanished into the house.
+# 2. stop existing 
+– > All thoughts of leaving vanished from his mind.
+= > If a child process terminates while its parent is calling a wait function, the child process vanishes and its termination status is passed to its parent via the wait call.",
+terminate,"# verb. formal. AW. to end; to make something end
+– > Your contract of employment terminates in December
+= > A zombie process is a process that has terminated but has not been cleaned up yet.",
+elegant,"# adjective. 1. (of people or their behavior) attractive and showing a good sense of style | synonym: stylish 
+– > She was tall and elegant.
+# 3. (of a plan or an idea) showing skill and imagination, but simple
+– > an elegant solution to the problem 
+= > A more elegant solution is no notify the parent process when a child terminates.",
+,,
+chapter 4,# Threads ,
