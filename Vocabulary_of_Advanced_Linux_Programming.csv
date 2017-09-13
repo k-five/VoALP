@@ -594,3 +594,171 @@ elegant,"# adjective. 1. (of people or their behavior) attractive and showing a 
 = > A more elegant solution is no notify the parent process when a child terminates.",
 ,,
 chapter 4,# Threads ,
+,,
+concept,# noun. AW. an idea or a principle that is connected with something abstract,
+conceptual,"# adjective. formal. related to or based on ideas 
+– > a conceptual model
+# + adverb form: conceptually 
+– > conceptually distinct
+= > Conceptually, a thread exists within a process.",
+consult,"# verb. AW. 1. to go to someone for information or advice
+– > If the pain continues, consult your doctor.
+# thesaurus of talk: discuss, speak, communicate, debate, consult",
+beforehand,"# adverb. earlier; before something else happens or is done
+– > I wish we would known about it beforehand.
+= > To check for this beforehand, you might use code like this: …",
+fashion,"# noun. a popular style of clothes, hair, etc at a particular time or place; the state of being popular 
+– > Long skirts have come into fashion again.
+# idiom: in (a) … fashion. formal. in a particular way
+– > How could they behave in such a fashion?
+= > Often a thread may be in some code that must be executed in an all-or-nothing fashion.",
+constitute,"# verb. formal. AW. liking-verb + noun: to be considered to be something
+– > Does such an activity constitute a criminal offense?
+# 2. synonym: make up
+= > What constitute a cancellation point, and where should these be placed? ",
+pending,"# preposition. formal: while waiting for something to happen; until something happens
+– > He was released on bail pending further investigation.
+= > This (= pthread_testcancel)d does nothing except process a pending cancellation in a synchronously cancelable thread.
+# adjective. formal. 1. waiting to be decided or settled 
+– > Nine cases are still pending.
+# 2. going to happen soon
+– > a presidential election is pending.",
+entire,"# adjective. including everything, everyone, or every part | synonym: whole
+– > The entire village was destroyed.",
+entirely,"# adverb. in every way possible; completely
+– > I entirely agree with you.",
+entirety,"# noun. formal [the entirety of something] the whole of something
+– > The poem is too long to quote in its entirety
+= > A critical section is a sequence of code that must be executed either in its entirety or not at all.",
+orderly,"# adjective. 1. arranged or organized in a neat, careful, and logical way | synonym: tidy
+– > a woman with an orderly mind 
+# behaving well, peaceful
+– > an orderly demonstration ",
+audit,"# noun. 1. an official examination of business and financial records to see that they are true and correct
+– > an annual audit 
+= > For audit purpose, each thread is to have a separate log file, in which progress messages for that thread’s tasks are recorded.
+# verb. to officially examine the financial accounts or a company
+– > We have just had our accounts audited.",
+intention,"# noun. what you intend to plan to do; your aim
+– > I have no intention of going to the wedding. 
+= > Using this technique, a function indicates its intention to exit the thread by throwing a ThreadExitException instead of calling pthread_exit directly. ",
+percolate,"# verb 1. (of a liquid, gas, etc) to move gradually through a surface that has very small holes or spaces in it
+– > Water had percolated down through the rocks.
+# 2. to gradually become known or spread through a group or society ",
+ultimate,"# adjective. 1. happening at the end of a long process | synonym: final
+– > our ultimate goal / aim / objective / target 
+# 2. most extreme; best; worst; important, greatest, etc
+– > This race will be the ultimate test of your skill.
+– > The ultimate cause of most bugs involving threads is that the threads are accessing the same data.",
+partway,"# (or part-way) some of the way
+– > They were partway through the speeches when he arrived. 
+= > If one thread is only partway through updating a data structure when another thread accesses the same data structure, chaos is likely to ensue.",
+chaos,"# noun. a state of complete confusion and lack of order 
+– > Heavy snow has caused total chaos on the highways.",
+ensue,"# verb. formal. to happen after or as a result of another event | synonym: follow
+– > an argument ensued
+# + adjective form: ensuing ",
+concurrent,"# adjective. existing or happening at the same time
+– > he was imprisoned for two concurrent terms of 30 months and 18 months.
+= > Suppose that your program has a series of queued jobs that are processed by several concurrent thread.
+# + adverb form: concurrently
+– > The prison sentences will run concurrently ",
+coincidence,"# noun. AW. the fact of two things happening at the same time by chance, in a surprising way
+– > What a coincidence! I was not expecting to see you here.
+# thesaurus of luck: chance, coincidence, accident, fate, destiny
+= > By unfortunate coincidence, we now have two threads executing the same job.",
+lavatory,"# noun. a room with a toilet and a sink, especially on a plane
+= > Think of mutex (= Mutual Execution lock) as the lock on a lavatory door.",
+occupy,"#  1. [occupy something] to fill or use a space, in area or an amount of time | synonym: take up
+– > The bed seemed to occupy most of the room.",
+occupant,"# noun. AW. 1. a person who lives or works in a particular house, room, building, etc
+– > All outstanding bills will be paid by the previous occupants.",
+emerge,"# verb. AW. 1. to come out of a dark or hidden place
+– > The swimmer emerged from the lack.
+= > If someone attempts to enter the lavatory while it is occupied, the person will find the door locked and will be forced to wait outside until the occupant emerges.",
+semaphore,"# noun. a system for sending signals in which you hold your arm or two flags in particular position to represent different letters of the alphabet
+# verb. to send message to someone by semaphore or similar system of signal
+= > 4.4.5 Semaphore for Threads",
+spin,"# verb. 1. {turn around quickly} to turn around and around quickly; to make something do this
+– > My head is spinning (= I feel as if my head is going around and I cannot balance).",
+inverse,"# adjective. 1. opposite in amount or position to something else
+– > A person’s wealth is often in inverse proportion to their happiness (= the more money they have, the less happy they are).
+# + adverb form:
+– > We regard heath as inversely related to social class.
+= > A condition variable enables you to implement a condition under which a thread execute, and inversely, the condition under which the thread is blocked.",
+conjunction,"# 1. (grammar) a word that joins words, phrases or sentences for example: ‘and’, ‘but’, ‘or’
+# 2. (formal) a combination of events, etc that causes a particular result
+# idiom: in conjunction with: (formal) together with
+– > The system is designed to be used to conjunction with a word processing program.
+= > Each condition variable must be used in conjunction with a mutex to prevent this sort of race condition. ",
+intervene,"# verb. 1. to become involved in a situation in order to improve or help it
+# 2. to interrupt someone when they are speaking in order to say something
+– > “But”, she intervened, “What about the others?”
+= > GNU/Linux allows you to unlock the mutex an wait on the condition variable atomically, without the possibility of another thread intervening.",
+accompany,"# verb. AW. [accompany someone] (formal) to travel or go somewhere with someone 
+– > His wife accompany him on the trip.
+# 2. to happen or appear with something else
+– > strong winds accompanied by heavy rain
+= > Remember that each condition variable should be accompanied by a mutex.",
+acquire,"# verb. AW. formal. to obtain something by buying or being given it
+– > The company has just acquired new premises.
+# 2. to get; to gain something by your own efforts, ability or behavior
+## In everyday English people usually say get instead of acquire
+– > Where did you get that tie?",
+broadcast,"# verb. to send out programs on television or radio
+– > Most of the program are broadcast in English.
+= > 3. Signal or broadcast the condition variable, depending on the desired behavior. ",
+discard,"# verb. 1. to get rid of something that you no longer want or need
+– > The room was littered with discard newspapers.
+= > … a condition variable discard the wake-up call unless some thread is actually blocked on it at the same time.
+# 2. (in card game) to get rid of a card that you no longer want",
+sufficient ,"# adjective. AW. enough for a particular purpose; as much as you need
+– > Allow sufficient time to get there.
+– > One does should be sufficient.
+# opposite: insufficient 
+# adverb form: sufficiently 
+– > The following day she felt sufficiently well to go to work.
+= > In a sufficiently unfortunate scheduling scenario, Linux may schedule thread A long enough to lock mutex 1, and then schedule thread B, …",
+prompt,"# adjective. 1. done without delay | synonym: immediate 
+– > Prompt action was required at the fire spread
+# verb. 1 to make someone decide to do something; to cause something to happen
+# noun. a word or words to to actor, to remind them with to say next when they have forgotten 
+# adverb. exactly at the time mentioned 
+– > The meeting will begin at ten o’clock prompt.",
+promptly,"# adverb. 1. without delay
+# 2. exactly at the correct time or at the time mentioned 
+= > … the schedule thread B, which promptly locks mutex 2.",
+scenario,"# noun. 1. a description of how things might happen in the future
+– > Let me suggest a possible scenario.
+# a written outline of what happens in the movie or play | synonym: synopsis",
+arbitrary,"# adjective. AW. (of an action, a decision, a rule, etc) not seeming to be based on a reason, system or plan and sometimes seeming unfair 
+– > The choice of players for the team seemed completely arbitrary.
+# adverb form: arbitrarily 
+– > The leaders of the groups were chosen arbitrarily.
+= > The condition protected by a condition variable can be arbitrarily complex.",
+dictate,"# verb. [dictate (something)(to someone)] to say words for someone else to write down 
+– > He dictate a letter to his assistant.
+# 3. to control or influence how something happens | synonym: determine 
+= > In GNU/Linux, the behavior is dictated by the fact that threads are implemented as processes.
+# noun. formal. an order or rule that you must obey",
+ambiguity,"# noun. AW. 1. the state of having more than one possible meaning
+– > Write clean definitions in order to avoid ambiguity.
+= > … there is no ambiguity about which thread receives the signal.",
+ambiguous ,"# adjective. 1. that can be understood in more than one way, having different meaning
+– > an ambiguous word / term / statement",
+errant,"# adjective. formal. 1. doing something that is wrong; not behaving in an acceptable way
+– > errant father who refuse to pay child support 
+= > An errant thread can harm other threads in the same process because threads share the same virtual memory space and other resources.",
+coarse,"# adjective. (coarser, coarsest) 1. (of skin or cloth) rough | opposite: soft, smooth
+= > Processes should be used for programs that need coarser parallelism.
+# 2. containing of relatively large pieces 
+– > coarse sand / salt / hair 
+# 3. rude and offensive, especially about sex
+# adverb form: coarsely ",
+cumbersome,"# adjective. 1. large and heavy; difficult to carry | synonym; bulky
+– > cumbersome machinery 
+# slow an complicated 
+= > IPC (= Interprocess communication) can be more cumbersome but makes multiple processes less likely to suffer from concurrency bugs.
+# ( of word or phrase) long and complicated ",
+,,
+chapter 5,# Interprocess Communication,
