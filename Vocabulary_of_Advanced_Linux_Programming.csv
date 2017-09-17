@@ -762,3 +762,177 @@ cumbersome,"# adjective. 1. large and heavy; difficult to carry | synonym; bulky
 # ( of word or phrase) long and complicated ",
 ,,
 chapter 5,# Interprocess Communication,
+,,
+circumvent,"# verb. formal. [circumvent something] to find a way of avoiding a difficulty or a rule
+– > They found a way of circumvent the law.
+= > This chapter describes means for interprocess communication that circumvent these limitations. ",
+socket,"# 1. = outlet
+# 2. a device on a piece of electrical equipment that you fit a plug, a light bulb ,etc into
+– > an antenna socket on the television
+= > This transfer of data usually uses socket in a telephone-like connection.
+# 3. a curved hollow space in the surface of something that another part fits into or move around in
+– > His eyes bulged in their sockets.",
+inter-,"# prefix (in verb, noun, adjective, and adverb) between, from one to another
+– > interface
+– > interaction
+– > international 
+– > interprocess communication",
+criterion,"# (plural: criteria) noun. AW. a standard or principle by which something is judged, or with the help of which a decision id made
+– > What criteria are used for assessing a student’s ability?
+= > These types of IPC differ by the following criteria: …",
+ancestor,"# 1. a person in your family who lived a long time ago | synonym: forebear 
+– > His ancestor had come to America from Ireland.
+# 3. an early form of a machine that later become more developed | synonym: forerunner 
+– > (I am not sure for this example that be true) … processes with a common ancestor …",
+halt,"# verb. to stop, to make someone or something stop
+– > She walked toward him and then halted.
+= > …, a reading process is halted until data is available to read.",
+clutter,"# verb. to fill a place with too many things, so that it is messy
+– > I do not want all these files cluttering my deak.
+= > Our illustrative programs, though, just show a single process accessing the memory, to focus on the shared memory mechanism and to avoid cluttering the sample code with synchronization.",
+segment,"# noun. 1. a part of something that is separate from other part or can considered separately 
+– > She cleaned a small segment of the painting.
+= > After finishing its use of the segment, each process detached the segment.
+# 2. one of the sections of a an orange, a lemon, etc
+# verb. (technical) to divide something into different part
+–  > The worm has a segmented body (= with different sections joined together).",
+brand new,"# completely new
+– > a brand new computer
+– > She bought her car brand new.
+= > Using the special constant IPC_PRIVATE as the key value guarantees that a brand new memory segment is created.",
+grant,"# verb. AW. to agree to give someone what they ask for, especially formal or legal permission to do something
+– > My request was granted.
+# in everyday English people usually say: give permission rather than grant permission (=formal)
+= > This value is made of 9 bits indicating permission granted to owner, group, and the other …",
+violate,"# verb. AW. formal. to go against or refuse to obey a law, an agreement, etc | synonym: flout
+– > to violate international law
+# Each shared memory segment should be explicitly deallocated using smctl when your are finished with it, to avoid violating systemwide limit on the total number of shared memory segment.",
+erroneous,"# adjective. AW. formal. not correct; based on wrong information 
+– > erroneous conclusion/assumption 
+# adverb form: erroneously 
+– > The bank erroneously transferred the money to her account. 
+= > If this memory segment was erroneously left behind by a program, you can use the ipcrm command.",
+bi-,"# combining form (in noun and adjective) two; twice; double
+– > bidirectional 
+= > Shared memory segments permit fast bidirectional communication among any number of processes.",
+protocol,"# noun. 1. a system of fixed rules and formal behavior used at official meeting, usually between government 
+– > a branch of protocol
+# (computing) a set of rules that control the way data is sent between computers 
+= > … some protocol to prevent race conditions …",
+coordinate,"# verb. AW. to organize the different parts of an activity and the people involved in it so that it works well
+– > We need to develop a coordinated approach to the problem.
+= > As noted in the previous section, processes must coordinate access to shared memory.",
+undo,"# (undoes, undid, undone) 1. to open something that is fastened, tied or wrapped 
+– > to undo a button / knot / zip etc
+# 2. to cancel the effect of something
+– > He undid most of the good work of the previous manager.
+= > … Linux automatically undoes the operation on the semaphore when the process exits.",
+volunteer,"# noun. a person who does a job without being paid for it
+– > volunteer helper",
+voluntarily,"# adverb. 1. willingly; without being forced 
+– > He was not asked to leave – he went voluntarily
+= > When a process terminate, either voluntarily or involuntarily, the semaphore’s value are automatically adjusted to ‘undo’ the process’s effects on the semaphore. 
+# 2. without payment; free
+– > The fund is voluntarily administered",
+map,"# noun. a drawing of the earth’s surface or part of it, showing countries, town, rivers, etc
+– > a map of California 
+# verb. (pp) 1. to make a map of an area | synonym: chart
+# 2. [map something] to discover or give information about something, especially the way it arranged or organized 
+– > It is now possible to map the different functions of the brain.
+= > To map an ordinary file to a process’s memory, use the mmap.",
+hint,"# noun. 1. something that you say or do it in indirect way in order to show someone what you are thinking
+– > He gave a broad hint (= one that was obvious) that he was thinking of retiring.
+# 3. synonym: sign
+# 4. synonym:  suggestion, trace
+# 5. synonym: tip",
+constraint,"# noun. AW. 1. [C] a thing that limits or restricts something, or your freedom to do something | synonym: restriction 
+– > constraint of time / money / space
+# thesaurus of limit: restriction, control, constraint, restraint, limitation
+# 2. strict control over the way that you behave or are allowed to behave
+– > At last we could relax and talk without constraint.
+= > The flag value is a bitwise ‘or’ of these constraint: MAP_FIXED, MAP_PRIVATE, MAP_SHARED.",
+uni-,"# combining form (in noun, adjective, and adverbs) one; having one
+– > uniform 
+= > The function returns a uniformly random number in the range [low, high].",
+incorporate,"# verb.  1. to include something so that is forms a part of something
+– > The new car design incorporates all the latest safety features. 
+= > Alternatively, you can force Linux to incorporate buffered writes into the disk file by calling msync.
+# 2. (business) to create a legally recognized company.
+– > The company was incorporated in 2008.",
+unary ,# involving only one member of a set at a time,
+binary,"# 1. (computing, mathematics) using only 0 or 1 as a system of numbers
+– > the binary system
+# 2. (technical) based on only two member, consisting of two parts
+– > binary code/numbers ",
+capacity,"# noun. AW. 1. the number of things or people that a container or space can hold
+– > The theater has a seating capacity of 2,000.
+= > A pipe’s data capacity is limited",
+snooze,"# verb. informal.  to have a short light sleep, especially during the day and usually not in bed
+– > My brother was snoozing on the sofa.
+= > /* Snooze a while */ sleep( 1 );",
+equate,"# verb. to think that something is the same as something else or is as important 
+– > Some parents equate education with exam success. 
+= > Using the dup2 call, you can equate one file descriptor with another.",
+equation,"# noun. AW. 1. a statement showing that two amount or value are equal, for example 2x + y = 54",
+interchange,"# noun. 1. the act of sharing or exchanging something, especially ideas or information 
+– > a continuous interchange of ideas 
+# verb. 1. to share or exchange ideas, information, etc
+– > Cable technology will make it possible for people to interchange information on a rapid two-way basis. 
+= > The call closes standard input and then reopens it as a duplicate of fd so that the two may be used interchangeably.",
+ease,"# noun. 1. lack of difficulty 
+– > He passed the exam with ease.
+– > This computer is popular for its good design and ease of use.
+# verb. 1. to become or to make something less unpleasant, painful, severe, etc | synonym: alleviate 
+– > This should help ease the pain.
+= > The popen and pclose function ease this paradigm by eliminating the need to invoke pipe, fork, dup2, exec and fdopen.",
+eliminate,"# verb. AW. to remove or get rid of something or someone
+– > Credit cards eliminate the need to carry a lot of cash.",
+interleave,"# verb. to put something, especially thin layers of something, between things 
+= > Chunks from simultaneous writes can be interleaved. Similar rules apply to simultaneous reads.",
+simultaneous ,"# adjective. happening or done at the same time as something else
+# noun form: simultaneity 
+# adverb form: simultaneously 
+– > The game  will be broadcast simultaneously on TV and radio.",
+simulate,"# verb. to pretend that you have a particular feeling | synonym: feign 
+– > I tired to simulate surprise at the news.
+# 2. to create particular conditions that exists in read life using computers, models, etc usually for study or training purpose
+– > Computer software can be used to simulate conditions on the seabed (= the floor of the ocean).",
+simulated,"# adjective. not read, but made to look, feel, etc like the real thing 
+– simulated leather ",
+simulation,# noun. AW. – > a simulation model ,
+transmit,"# verb. AW. to send electronic signal, radio or television broadcast, etc
+– > signal transmitted from a satellite 
+# 2. synonym: transfer
+– > sexually transmitted diseases
+# 3. synonym: conduct ",
+transit,"# noun. AW. 1 the process of being moved or carried from one place to another 
+– > The cost includes transit.
+– > goods damages in transit 
+# 2. a system of buses, trains, etc the people use to travel form one place to another
+– > the transit system
+= > Packet may be lost or reordered in transit due to network errors or other conditions.",
+incoming,"# adjective. 1. recently elected or chosen 
+– > the incoming mayer / president / administration 
+= > …, placing a call to listen that enables connections to the socket, placing calls to accept incoming connections, and then closing socket. ",
+bind,"# verb. (bound, bound) 1. to tie someone or something with rope, string, etc so that they cannot move or are held together firmly 
+– > She was bound to the chair.",
+domain,"# noun. AW. 1. an area of knowledge or activity; especially one that someone is responsible for
+# 3 (computing) a set of Web site on the Internet which end with the same group of letters, for example ‘.com’, ‘.org’.
+= > There are called local socket or UNIX-domain socket.",
+reside,"# verb. AW. formal. to live in a particular place
+– > He returned to the US in 1939, having resided abroad for many years.
+= > Because it resides in the file-system, a local socket is listed as a file.",
+resident,# noun. 1. a person who lives in a particular place or who has their home there,
+layer,"# noun. 1. a quantity or thickness or something that lies over a surface or between surfaces 
+– > a thin layer of dust covered everything 
+# 2. a level or part within a system or set of ideas
+– > There were too many layers of management in the company.
+# verb. [layer something] to arrange something in layers 
+– > Layers to potatoes and onions in the dish.
+– > Her hair was layered (= cut to several different length).
+= > The Transmission Control Protocol (TCP), layered on top of IP provides reliable connection-ordered transport. ",
+transport,"# verb. AW. 1. to take something or someone from one place to another in a vehicle
+– > to transport goods / passengers
+# 2. synonym: carry",
+,,
+chapter 6,# Devices ,
