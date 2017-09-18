@@ -936,3 +936,112 @@ transport,"# verb. AW. 1. to take something or someone from one place to another
 # 2. synonym: carry",
 ,,
 chapter 6,# Devices ,
+,,
+module,"# noun. 1. (computing) a unit of a computer system or program that has a particular function 
+# 2. one of the set of separate parts or units that can be joined together to make machine, a piece of furniture, a building, etc
+= > Linux like most operating system, interacts with hardware devices via modularized software components called device drivers.",
+on-demand,"# adjective. done or happening whenever someone asks 
+– > The new network promises lightening-fast access to on-demand video. 
+= > Under Linux, device drivers are part of the kernel and may be either linked statically into the kernel or loaded on demand as kernel modules. ",
+be of use,"# idiom: be of use (to someone) formal: to be useful
+– > Can I be of any use( = can I help)?
+= > These are not linked to hardware devices; instead, they provide various kinds of specialized behavior that can be of use to application and system programs.",
+caution,"# noun. 1. care that you take in order to avoid danger or mistake; not taking any risks
+– > Statistics should be treated with caution. 
+– > Use caution (= be careful) when you drive on ice roads.
+= > Exercise Caution When Accessing Devices!",
+misuse,"# noun. the act of using something in a dishonest way or for the wrong purpose | synonym: abuse
+– > the misuse of power / authority 
+# verb. to use something in the wrong way or for wrong purpose | synonym: abuse, ill-treat
+= > Use these techniques with care because misuse can cause impair or damage the GNU/Linux system.",
+impair,"# verb. [impair something] formal. to damage something or make something worse
+– > His age impaired his changes of funding a new job.
+# thesaurus of damage: hurt, harm, impair ",
+inflict,"# verb. to make someone or something suffer something unpleasant 
+– > Heavy casualties were inflicted on the enemy. 
+= > …, a root process can inflict severe damage by changing the contents of the disk.",
+severe,"# adjective. 1. {very bad} extremely bad or serious
+– > His injuries are severe.",
+unusable,"# adjective. in such a bad condition or of such low quality that it cannot be used | opposite usable 
+= > … , thus rendering a drive or even the entire system unusable.",
+slave,"# noun. 1. (chiefly in the past) a person who is legally owned by another person and is forced to work for them
+– > She treated her daughter like a slave. 
+– > slave owner 
+# 3. (technical) a device that is directly controlled by another one
+= > An IDE controller can have two devices (disk tape, or CD-ROM drives) attached to it; the ‘master’ device has minor device number 0, and the ‘slave’ device has minor device number 64.",
+No.,"# abbreviation ( plural Nos or nos) number
+– Room No. 134
+# 2. north; northern ",
+portal,"# noun. formal. large impressive gate or entrance to a building 
+# 2. (computing) a Web site that is used as a point of entry to the Internet, where information has been collected that will be useful to a person interested in particular kinds of things
+– > a business / news / shopping portal
+= > …, the device entry is merely a portal for communication with the driver, if it is there.",
+daemon,# a creature in stories from ancient Greece that is half man and half god ,
+semantic,"# adjective.  connected with the meaning of words and sentences 
+– > semantic analysis
+= > …, often the different character devices provide different semantics.
+# adverb form: semantically 
+– > semantically related words",
+authentic,"# adjective. 1. known to be real and genuine and not a copy
+– > I do not know if the painting is authentic | opposite: inauthentic 
+# 2. true or accurate ",
+authenticate ,"# verb. to prove that something is genuine, real or true
+– > Experts have authenticated the writing as that of Byron himself.
+= > If you need to authenticate users in your program, you should learn about GNU/Linux’s PAM facility.
+# noun form: authentication ",
+enlighten,"# [enlighten someone] verb. formal. to give someone information so that they understand something better
+– > She did not enlighten him about her background",
+enlightenment,"# noun. 1. knowledge about and understanding of something; the process of understanding something or making someone understand it
+– > The newspapers provided little enlightenment about the cause of the accident 
+= > Gnome windowing environment uses the Enlightenment Sound Daemon (= EsounD).",
+inevitable ,"# adjective. AW. 1. that you cannot avoid or prevent
+– > It was an inevitable that there would be job losses.
+= > This behavior is inevitable because computers are intrinsically deterministic and predictable.
+# noun form: inevitability
+– > The inevitability of death ",
+intrinsic,"# adjective. belonging to or part of the real nature of something or someone 
+# compare to extrinsic 
+# adverb form: intrinsically",
+deterministic ,"# determinism. noun (philosophy) the belief that people are not free to choose what they are like or how they behave, because these things are decided by their surroundings and other things over which they have no control 
+# adjective form: deterministic ",
+keystroke,"# noun. a signal action of pressing a key on a computer or typewriter keyboard
+– > This software keeps a log of every keystroke typed on the keyboard.
+= > By measuring the time delay between your input actions, such as keystrokes and mouse movements, …",
+exhaust,"# noun. 1 waste gases the come out of a vehicle, an engine or a machine 
+– > car exhaust fumes 
+# verb. to make someone fell very tired 
+– > Even short walk exhausted her.
+= > The difference between the two devices exhibits itself when Linux exhausts its store of randomness. ",
+crypto-,"# combining form. (in nouns) secret 
+– > a crypto-communist ",
+cryptography,"# noun. [U] the act of writing or solving codes 
+= > …, it is sometimes possible to break a cryptographic algorithm if you can obtain the sequence of random number that is employed.",
+confirm,"# verb. to state or show that something or definitely true or correct, especially by providing evidence 
+– > Please write to confirm your reservation (= say that is is definite)",
+confirmation,"# noun. AW. 1. a statement, letter, etc you shows that something is true correct, or definite 
+– > I am still waiting for confirmation of the test result.",
+newly,"# adverb. recently 
+– > a newly qualified doctor 
+= > …, information about newly created file system.",
+intact,"# adjective. complete and not damage | synonym: undamaged 
+– > Most of the house remains intact even after two hundred years.
+= > …, the whole file system that you created on it (=virtual disk) will be intact. ",
+hijack ,"# 1. [hijack something] to use violence or threats to take control of a vehicle, especially a plane, in order to fore it to travel to a different place or to damage something from a government 
+= > if you read from it, you will hijack keyboard input that would otherwise be sent to the program running in the PTY.
+# 2. to use or take control of something, especially a meeting, in order to advertise you own aims and interests",
+supply,"# noun. 1. an amount of something that is provided or available to be used
+– > The water supply is unsafe.
+# verb. to provide someone or something with something that they need or want, especially in large quantities 
+= > Depending on the request code, they may by additional argument supplying data to ioctl.",
+beyond,"# preposition. 1. on or to the further side of something 
+– > The road continues beyond the village up into the hills.
+# 5. too far or too advanced for someone or something
+– > The handle was just beyond my reach.
+= > Most of these are quiet specialized and are beyond the scope of this book.
+# adverb. on the other side; further on
+– > The immediate future is clear, by it is hard to tell what is lies beyond.",
+eject,"# verb. formal. to force someone to leave a place | synonym: throw out
+– > Police ejected a crowd of violent protesters from the hall.
+= > Listing 6.2 presents a short program that eject the disk in a CD-ROM drive (if the drive supported this).",
+,,
+chapter 7,# The /proc File System,
