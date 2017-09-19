@@ -1045,3 +1045,90 @@ eject,"# verb. formal. to force someone to leave a place | synonym: throw out
 = > Listing 6.2 presents a short program that eject the disk in a CD-ROM drive (if the drive supported this).",
 ,,
 chapter 7,# The /proc File System,
+,,
+on the fly,"# informal. if you do something on the fly, you do it quickly while something else is happening, and without thinking about it very much
+= > Instead they are generated on the fly by the Linux kernel when you read from the file.",
+precede,"# verb. AW. 1. [precede someone/something] to happen before something or come before something or something in order
+– > See the preceding chapter.
+= > The output is a table of values, one per line, with a description of the value end a colon preceding each line.",
+view,"# noun. 1. a personal opinion about something, an attitude toward something
+– > to have different / confident / opposing views
+# thesaurus of sight: view, vision
+# 1. {think about something} to think about someone or something in a particular way
+– > how do you view your position within the company. 
+# 2. {look at something} [view something] to look at something, especially when you look carefully 
+– > People come from all over the world to view her work.
+= > To view it, invoke this command: man 5 proc",
+bail,"# noun. money that someone agree to pay if a person accused of a crime does not appear at their trail. When bail has been arranged, the accused person is allowed to get free until trail
+– >  Can anyone post an bail for you?
+# verb. to release someone in bail
+– > His son called home to get bailed out of jail
+# 2. to leave a place, especially quickly
+– > Sorry I really have to bail.
+= > /* Bail if read failed or if buffer is not big enough. */",
+interpret,"# verb. AW. to explain the meaning of something
+– > The students were asked to interpret the poem.
+= > We will describe the interpretation of some of these fields in Section 7.3.1 “CPU Information”.",
+degrade,"# verb. 1. [degrade someone] to show or treat someone in a way that makes them seem not worth any respect or not worth taking seriously 
+– > This poster is offensive and degrades woman. 
+# 3 [degrade something] to make something become worse, especially in quality 
+= > If you use them in a program, you should make user that the program’s behavior degrades gracefully if the /proc entry is missing or is formatted unexpectedly. ",
+comprehend,"# verb. formal. to understand something fully 
+– > It stood staring at the dead body, unable to comprehend.
+# thesaurus of understand: see, get, follow, grasp, comprehend 
+– > I do not understand the instructions.
+– > Oh, yes. I see what you mean.
+– > She did not get the joke.
+– > I do not get you.
+– > The failed to grasp the importance of his works.",
+comprehensible,"# adjective. formal. that can be understood by someone | opposite: uncomprehensible 
+= > status contains lots of status and statistical information about the process, formatted to be comprehensible by humans.
+– > easily  readily comprehensible to the average reader",
+breakdown,"# noun. 1. an occasion when a vehicle or machine stops working
+– > a breakdown on the highway",
+auxiliary ,"# adjective. 1. (of workers) giving help to support to the main group of workers | synonym: ancillary 
+# 2. (technical) (of a piece of equipment) used if there is a problem with the main piece of equipment
+– > an auxiliary pump
+= > For many program, auxiliary files are installed in directories with known paths relative t the main program executable, …
+# noun. (grammar) a verb such as be, do, have, used with main verb to show tense, etc and from questions, and negatives ",
+vendor,"# noun. 1. a person who sells things, for example food or newspaper, usually outside on the street
+– > street vendor
+# 2. formal. a company that sells particular product
+– > software vendor.
+– > The Vendor, CPU family, Model, and Stepping fields enable you to determine the exact model and revision of the CPU.",
+precursor,"# noun. formal. a person or thing that comes before someone or something similar and that leads to or influences its development | synonym: forerunner 
+= > EGGS, the Experimental GNU Compiler System, was a precursor to the current GCC project.",
+quantum,# noun. (physics) (plural: quanta) a very small quantity of electromagnetic energy ,
+explanatory,"# adjective. giving the reasons for something; intended to describe how something works, or to make something easier to understand 
+– > There are explanatory notes at the back of the book.",
+self-explanatory,"# adjective. easy to understand and not needing any more explanation 
+– > I think the title is self-explanatory.",
+none,"# pronoun. not one of a group of people or things; not any
+– > None of these pens work.
+# grammar rule:
+# When you use none of with an uncountable noun, the verb is singular: None of the work was done.
+# When you use none of with a plural noun, the verb is plural: None of the trains are going to Boston.
+# When you use none of with a noun referring to a group or people or things, the verb is usually singular: None of her family has been to collage. ",
+outstanding,"# adjective. 1. extremely good, excellent 
+– > an outstanding player / achievement / success
+# thesaurus of excellent: outstanding, perfect, superb 
+– > He speak excellent English.
+– > She is an outstanding dancer.
+– > She came up with a perfect excuse.
+– > (formal) The facilities at the hotel are superb.
+# 2. very obvious and important 
+– > the outstanding of the landscape 
+= > The /proc/locks entry describes all the file locks currently outstanding in the system.",
+uptime,"#  the time during which a machine, especially a computer is working  | opposite: downtime ",
+downtime,"# 1. the time during which a machine, especially a computer is not working ",
+idle,"# adjective. 1. (of people) not working hard | synonym: lazy
+– > an idle student 
+# verb. to spend time doing nothing important 
+– > The /proc/uptime file contains the length of time since the system was booted, as well as the amount of time since  then the system has been idle.",
+instant,"# adjective. 1.  happening immediately | synonym: immediate 
+# noun. 1. very short period of time | synonym: moment ",
+instantaneous ,"# adjective. happening immediately 
+– > an instantaneous response 
+= > The next entry shows the instantaneous current number of runnable tasks, …",
+,,
+chapter 8,# Linux System Call,
