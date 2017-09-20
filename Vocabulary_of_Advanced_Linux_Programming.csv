@@ -1132,3 +1132,93 @@ instantaneous ,"# adjective. happening immediately
 = > The next entry shows the instantaneous current number of runnable tasks, …",
 ,,
 chapter 8,# Linux System Call,
+,,
+exert,"# verb. [exert something] to use power or influence to affect someone or something 
+– > He exerted all his authority to made them accept the plan.
+= > Some system calls are very powerful and can exert great influences on the system.",
+or ,"# conjunction. 1. used to introduce another possibility 
+– > Is your sister older or younger than you?
+# idiom. or so: about.
+– > It will cost $140 or so.
+= >The next 30 or so lines are part of the mechanism that loads the standard C library from a shared library file.",
+garbled,"# adjective. (of a message or story) told in a way that confuses the person listening, usually by someone who is shocked or in the hurry | synonym: confused 
+– > There was a garbled message from her on my voice mail.
+= > This may appear garbled when you run strace because the output from the hostname program itself is mixed in with the output form strace. ",
+zero,"# verb. [zero something] to turn an instrument, control, etc to zero
+= > to place a lock on a file, first create and zero out a struct flock variable.",
+outage,"# noun. a period of time when the supply of electricity, etc in not working 
+= > – for instance, due to a kernel crash or power outage – any data …",
+integrity ,"# noun. AW. 1. the quality of being honest and having strong moral principles 
+– > personal / professional / artistic integrity 
+# 2. (formal) the state of being whole and not divided | synonym: unity 
+= > However, the behavior can make programs that depends on the integrity of disk-based records unreliabe.",
+transact,"# verb. formal. to do business with a person or an organization 
+– > buyers and sellers transacting business 
+= > For example suppose you are writing a transaction-processing program that keeps a journal file.",
+exceed,"# verb. formal. AW. 1. to be greater than a particular number of amount
+– > the price will not exceed $100.
+# 2. to do more than the law or an order, etc allows you to do
+– > She was exceeding the speed limit (= driving faster than is allowed)
+= > If a program exceeds this time limit, it is terminated with a SIGXCPU signal.",
+throttle,"# verb. [throttle someone] to attack or kill someone by squeezing their throat in order to stop them from breathing. | synonym: strangle 
+# noun. a device that controls the amount of fuel that goes into the engine of a vehicle, for example the accelerator in a car
+– > He drove along at full throttle (= as fast as possible).
+= > Typically, an application program will reduce the soft limit to a place a throttle on the resources it uses.",
+commit,"# verb. AW. 1. {crime}
+# 2. {suicide}
+# 9. {something to paper/writing} to write something down
+= > You can also open a file for synchronous I/O, which causes all writes to be committed to the disk immediately.",
+behalf,"# noun. AW. in order to help someone
+– > We collected money in behalf of homeless.
+# [on behalf of someone | on someone’s behalf]
+# 1. as the representative of someone or instead of them
+– > On behalf of the department, I would like to thank you all.
+= > System time is CPU time spent executing the user system calls on behalf of the process.
+# 2. because of someone; for someone
+– > Do not worry on may behalf.
+# 3. in order to help someone",
+elapse,"# verb. formal. if a period of time elapsed, it passes | synonym: go by
+– > Many years elapsed before they met again.
+= > This struct timeval value represents the number of seconds elapsed since the start of the UNIX epoch.",
+elapsed time,"# noun. (technical) used to describe the time that passes between the start and end of a project or a computer operation, in contrast tot he actual time needed to do a particular task that is part of the project ",
+fraction,"# noun. 1. a small part of amount of something
+# 2. a division of a number for example 5/8",
+fractional,"# adjective. formal. very small; not important | synonym: minimal 
+– > There was a fractional hesitation before he said yes.
+# 2. (mathematics) of or in fractions 
+= > Notice that neither localtime nor strftime handles the fractional part of the current time more precise than 1 second.",
+precise,# adjective. AW. 1. clear and accurate | synonym: exact ,
+precisely,# adverb. 1. exactly ,
+precision,"# noun. AW. the quality of being accurate, and careful | synonym: accuracy",
+intrude,"# verb. 1. to go or be somewhere you are not wanted to or are not supposed to be
+– > I am sorry to intrude, but I need to talk to someone.",
+intruder,"# noun. 1. a person who enters a building or an area illegally
+= > …, where they might be recovered by an intruder after the program terminates.",
+discriminate,"# verb. AW. to recognize that there is a difference between people or things; to show a difference between people or things | synonym: differentiate, distinguish 
+– > The computer program was unable to discriminate between letters and numbers.
+– > When do babies learn to discriminate voices?",
+indiscriminate,"# adjective. 1. an indiscriminate action is done without thought about what the result may be, especially when it causes people to be harmed
+– > Doctors have been criticized for their indiscriminate use of antibiotics 
+# 2. action without careful judgment 
+– > She have always been indiscriminate in her choice of friends 
+= > Indiscriminate memory locking is a good method of bringing your system to a grinding halt because …",
+grind,"# verb. (ground, ground) 1. {food,flour,coffee} to break or crush something into very small pieces between two hard surfaces ",
+bypass,"# noun. 1. a medical operation on the heart in which blood is directed along different route so that it does not flow through a part that is damaged or blocked; the new route that the blood takes.
+– > heart bypass surgery 
+# verb. 1 to go around or avoid a place
+# 2. to ignore a rule, an official system, someone in authority, especially in order to get something done quickly",
+subsequent ,"# adjective. AW. formal. happening or coming after something else | opposite: previous
+– > subsequent generations",
+subsequently,"# adverb. AW. formal. afterward; later; after something else has happened
+– > The original interview notes were subsequently lost.
+= > When a program subsequently writes to memory, Linux sends it SIGSEGV, …",
+interval,"# noun. 1 period of time between to events
+– > The interval between major earthquakes might be 200 years.
+= > This additional precision cab be useful, for instance, to schedule frequent operation  with short time intervals between them.",
+blast,"# noun. 1. an explosion or a powerful movement of air caused by an explosion 
+# verb. 1. to violently destroy or break something into pieces, using explosion 
+# 5. to direct air, water, etc at someone or something with a lot of force
+– > Police blast the demonstrators with water cannons.
+= > /* Blast the bytes from one file to another */ (= of sendfile system call)",
+,,
+chapter 9,# Inline Assembly Code,
