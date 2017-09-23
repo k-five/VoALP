@@ -1222,3 +1222,51 @@ blast,"# noun. 1. an explosion or a powerful movement of air caused by an explos
 = > /* Blast the bytes from one file to another */ (= of sendfile system call)",
 ,,
 chapter 9,# Inline Assembly Code,
+,,
+yield,"# verb. [yield something] to produce or provide something, for example a profit, result or crop
+– > The research has yielded useful information
+= > Higher-level languages such as C and C++ run on nearly all architectures and yield higher productivity  when writing and maintaining code.",
+sine,# (abbreviation: sin) (mathematics) the ratio of the length of the side opposite one of the angles in a right triangle that are less than 90-degree to the length of the longest side,
+cosine,# (abbreviation: cos) (mathematics) the ratio of the length of the side next to an acute angle in a right triangle to the length side (= hypotenuse),
+resort,"# noun. a place where a lot of people go on vacation 
+– > island / ski / mountain , etc resorts 
+# 3. the first / last / final resort. the first or the last course of action that you should or can take in a particular situation 
+– > In the last resort (= in the end) everyone must decide for themselves.
+= > You should use inline assembly code to speed up code only as a last resort.",
+intuitive,"# adjective. 1. (of ideas) obtained by using your feeling rather than by considering the facts
+– > He had an intuitive sense of what the reader wanted.
+# 3. (of computer software, etc) easy to understand and to use",
+roundabout,"# adjective. not done or said using the shortest, simplest or most direct way possible
+– > It was a difficult and roundabout trip.
+= > Therefore, compliers can often choose code sequences that may seem unintuitive or roundabout but that actually execute faster than other instruction sequences.",
+parenthetical,"# (also parenthetic) adjective. formal.  given extra information in a speech or piece of writing 
+– > parenthetical remarks
+= > The keyword ‘asm’ is followed by a parenthetic expression consisting of section separated by colons.",
+enclose,"# verb. to build a wall, fence, etc around something 
+– > The yard had been enclosed with iron railings. 
+# 2. to surround something 
+= > The first section contains the assembly instructions enclosed in quotation marks.",
+coerce ,"# verb. formal. to force someone to do something by using threats 
+– > They were coerced into negotiation a settlement.
+= > This is to coerce the compiler’s optimizer so that is does not eliminate the entire bit position computation; …",
+presence,"# (of a person) the fact of being in a particular place | opposite: absence 
+– > He hardly seemed to notice my presence.
+# in the presence of (someone/something): with the someone/something in the same place
+– > The document was singed in the presence of two witnesses.
+= > GCC’s optimizer attempts to rearrange and rewrite program’s code to minimize execution time even in the presence of ‘asm’ expression.",
+conserve,"# verb. [conserve something] to use as little of something as possible so that it lasts long time
+– > Help to conserve energy by insulating your home.
+# 2. to protect something and prevent it from being changed or destroyed 
+– > new laws to conserve wildlife in the area ",
+conservation,"# noun. 1. the protection of the natural environment 
+– > to be interested in wildlife conservation",
+conservative,"# adjective. opposite to great or sudden social change; showing that you prefer traditional styles and values 
+– > The conservative view of his parents
+= > GCC is forced to make conservative guesses that may prevent some optimizations. Caveat emptor!
+# noun. 1. a conservative person",
+caveat,"# noun. formal. a warning that particular things need to be considered before something can be done. 
+– > Any discussion of legal action must be preceded by a caveat about fees.",
+caveat emptor,"# the principle that a person who buys something is responsible for finding any faults in the thing they buy
+– > The sale is subject to the caveat emptor principle. ",
+,,
+chapter 10,# Security,
