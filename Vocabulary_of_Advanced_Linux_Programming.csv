@@ -1270,3 +1270,99 @@ caveat emptor,"# the principle that a person who buys something is responsible f
 – > The sale is subject to the caveat emptor principle. ",
 ,,
 chapter 10,# Security,
+,,
+compromise,"# noun. 1. an agreement made between two people or groups in which each side gives up some of the things they want to that both side are happy at the end
+– > After lengthly talk the two sides finally reached a compromise.
+# verb. to give up some of your demands after a disagreement with someone, in order to reach an agreement 
+– > Neither side is prepared to compromise.
+= > When this happens, the system’s security is said to have been compromise.",
+beach,"# noun. [breach of something] a failure to do something that must be done by law
+– > a breach of contract / copyright / warranty 
+= > But to avoid security breaches, ordinary applications must be careful as well.
+# verb. 1. [breach something] to  not keep to an agreement or not keep a promise | synonym: break
+– > The government is accused of breaching the terms of the treaty (= a formal agreement between two or more countries).",
+enforce,"# verb. AW. 1. to make sure that people obey a particular law or rule
+– > It it the job of the police to enforce the law.
+= > To enforce these kinds of controls, you have to be very careful. It amazingly easy to make a mistake.",
+enlist,"# verb. 1. to join or to make someone join the armed force | synonym: draft 
+– > They both enlisted in 1915.
+# 2. to persuade someone to help you or to join in doing something
+– > The hoped to enlist the help of the public in solving the crime.
+= > The best approach is to enlist the help of security experts.",
+misbehave,"# verb. to behave badly | opposite of behave 
+– > Any child caught misbehaving had to stand at the front of the class.
+= > If any of these programs misbehave, chaos can result.",
+proceed,"# verb. AW. to continue doing something that has already been started; to continue being done
+– > Work is proceeding slowly.
+= > When the process make a system call, the kernel decides whether to allow the operation to proceed.",
+opaque,"# adjective. 1. (of glass, liquid, etc) net clear enough to see through or allow light through
+– > opaque glass
+= > Just treat them as opaque handles for user and group identity.
+# 2 (of speech or writing) difficult to understand; not clear | synonym: impenetrable | opposite: transparent ",
+therein,"# adverb. formal. law. in the place, object, document, etc mentioned 
+– > The insurance policy covers the building and any fixtures contained therein
+= > If a user is allowed to execute a directory, the user is allowed to enter that directory and access the files therein.",
+mal-,"# combining form (in noun, verb and adjective) bad or badly; not correct or correctly 
+– > malpractice 
+– > malfunction",
+malice,"# noun. a feeling of hated for someone that causes a desire to harm them
+– > He sent the letter out of malice.",
+malicious,"# adjective. having or showing hated and desire to harm someone or hurt their feeling
+– > She took malicious pleasure in telling me what she had said.
+= > But a malicious user can make a copy of the program, change the permission to make in executable, and then run the copy!",
+please,"# verb. 1. to make someone happy
+– > You cannot please everybody. | opposite: displease
+# 2. often used after as or what, where, etc to mean ‘to want’ or ‘to choose’ or ‘to like’ to do something
+– > You may stay as long as you please.
+– > She always does exactly as she please.
+= > A process whose effective user ID is 0 can do absolutely anything it please.",
+artifact,"# noun. technical. an object that is make by a person, especially something of historical or cultural interest 
+= > Swapping the two user IDs is almost a historical artifact; modern program rarely use this functionality.",
+divine,"# adjective. coming from or connected with God or a god
+– > divine law/love/will
+– > divine intervention (= help form God to change a situation)
+= >So, if you even need root access on a machine and the sys-admin is not around, a little divine inspiration might be just what you need.",
+inspire,"# verb. 1. to give someone the desire, confidence, or enthusiasm to do something well
+– > The actors inspired the kids with their enthusiasm.",
+inspiration,"# noun. 1. the process that takes place when someone sees or heres something that causes them to have exciting new ideas or make them want to create something, especially in art, music, or literature 
+– > Dream can be a rich source of inspiration for an artist.",
+biometric ,"# using measurement of human features, such as fingers, or eyes, in order to identify people
+– > Biometric system have several advantages over conventional identification methods.
+= > In a really secure facility, retinal scans or other kinds of biometric testing are used.",
+retina,"# a layer of tissue at the back of the eye that is sensitive to light and sends signals to the brain about what is seen
+# adjective form: retinal",
+seize,"# verb. to take someone or something in your hand suddenly and using force | synonym: grab
+– > She tried to seize the gun from him.",
+malignant,"#  1. (of tumor or disease) that cannot be controlled and is likely to cause death
+– > malignant cells 
+# 2. (formal) having or showing a strong desire to harm someone ",
+feat,"# an action or a piece of work skill that needs skill, strength or courage 
+– > The tunnel in a brilliant feat of engineering.
+= > The usual mechanism to achieve this feat is to overwrite some portion of the program’s process stack.",
+engage,"# verb. 1. formal. to succeed in attracting and keeping someone’s attention and interest 
+– > It is a movie that engages both the mind and the eye.
+# 5. when a part of a machine engages, or when you engage it, it fits together with another part of the machine and the machine begin to work.
+– > The cogwheels are not engaging.
+= > A program that does not engage in network communications is much safer because only users who are already able to log in to the computer, running the program are able to attack it.",
+vital,"# adjective. 1. necessary or essential in order for something to succeed or exist 
+– > vital information 
+# 3. (of a person) full of energy and enthusiasm | synonym: dynamic ",
+disastrous,"# very bad, harmful or unsuccessful | synonym: devastating 
+– > a disastrous harvest / fire / result
+= > Even if they (= malicious users) have to try 10,000 times before winning the race condition, that one time could be disastrous.",
+overly,"# too, very
+– > I am not overly fond of pasta.
+= > Some programmers believe that C++ is a horrible and overly complex language.",
+merit,"# noun. 1. formal. the quality of being good and of deserving praise, reward or admiration | synonym: worth 
+– > a work of outstanding artistic merit 
+– > The plan is entirely without merit. ",
+dissuade,"# to persuade someone not to do something 
+– > I tried to dissuade him from giving up his job.
+= > To help dissuade you, we have deliberately made the interface difficult to use in real program.",
+fishy,"# adjective. 1. informal. that makes you suspicious because it seems dishonest | synonym: suspicious
+– > There is something fishy going on here.",
+ostensible,"# adjective. seeming or stated to be real or true, when this is perhaps not the case | synonym: apparent 
+– > The ostensible reason for his absence was illness.
+# adverb form: ostensibly",
+,,
+chapter 11,# A Sample GNU/Linux Application,
