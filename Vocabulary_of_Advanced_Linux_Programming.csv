@@ -1366,3 +1366,84 @@ ostensible,"# adjective. seeming or stated to be real or true, when this is perh
 # adverb form: ostensibly",
 ,,
 chapter 11,# A Sample GNU/Linux Application,
+,,
+jumping-off point,"# (also jumping-off place) noun. a place from which to start a trip or new activity
+– > Northeastern Tennessee is a good jumping-off point for a trip to the Great Smoky Mountains.
+= > It can serve as a jumping-off point for your own GNU/Linux programs. ",
+shield,"# noun. 1. a large piece of metal or leather carried by soldiers in the past to protect the body when fighting
+# verb. to protect someone or something form danger; harm, or something unpleasant 
+– > I shielded my eyes against the glare.
+= > This enables the server to remain responsive even when individual requests take a while to complete, and it shields the severs form failures in modules.",
+tune,"# verb. to adjust a musical instrument so that it plays at the correct pitch
+# 2. to adjust an engine so that it runs smoothly and as well as possible 
+= > The server is not tuned for high performance or minimum resource usage.",
+intentional,"# adjective. done deliberately | synonym: deliberate, intended 
+– > I am sorry I left your off the list – it was not intentional.
+# adverb form: intentionally 
+– > She would never intentionally hurt anyone.
+= > In particular, we intentionally omit some of the network configuration code that your would expect in a Web server.",
+comply,"# verb. to obey a rule, an order, etc
+– > They refused to comply with the U.N resolution.",
+compliance ,"# the practice of obeying rules or requests made by people in authority
+– > procedures that must be followed to ensure full compliance with the law
+= > Similarly, we do not aim for full compliance with HTML specifications.",
+regulate,"# verb. AW. to control something by means of rules 
+– > The activities of credit companies are regulated by law.
+# 2. to control the speed, pressure, temperature, etc in a machine or system
+– > This valve regulate the flow of water.
+= > We make no attempt to regulate the resources consumed by the server or its modules.",
+compose,"# verb. 1. formal. to combine together to form a whole | synonym: make up
+– > Ten men compose the committee.",
+composed,"# adjective. 1. to be made or formed from several parts, things, or people
+– > The committee is composed mainly of lawyers.
+= > HTTP requests and headers are composed of plain text.",
+all but,"# adverb. idiom. 1. almost
+– > The party was all but over when we arrived.
+# 2. everything or everyone except something or someone
+– > All but one of the plates were damaged.
+= > All but the very smallest programs written in C require careful organization ….",
+export,"# verb. Aw. 1. to sell and send goods to another country 
+– > The island export sugar and fruit.
+# 3. (computing) to send data to another program, changing its form so that the other program can read it | opposite: import 
+=  > Each source file exports functions or variables that may be accessed by the other parts of the program.",
+compile,"# verb. AW. 1. to produce a book, list, report, etc by bringing together different items, articles, songs, etc
+– > We are trying to compile a list of suitable people for the job.
+# 2. (computing) to translate instructions form one computer language into another so that a particular computer can understand them",
+compiler,"# noun. 1. a person who compiles something
+# 2. (computing) a program that translates instructions form one computers language into another for a computer to understand ",
+compilation,"# noun. AW. 2. the process of compiling something
+– > The compilation of a dictionary 
+= > Functions that are intended for use within a single compilation unit only are declared static and are not declared in server.h.",
+catastrophe,"# noun. 1. a sudden event that causes many people to suffer | synonym: disaster 
+– > Early warning of raising water levels prevented another major catastrophe.
+# adjective form: catastrophic | synonym: disastrous 
+– > catastrophic effect / losses / results
+= > Allocation failure all usually catastrophic, so aborting the program is often acceptable course of action. ",
+verbose,"# adjective. formal. disapproving. using or containing more words than are needed | synonym: long-winded 
+– > a verbose speaker / style 
+= > The variable ‘verbose’ is nonzero if the program is running in verbose mode.",
+progress ,"# noun. 1. the process of improving or developing, or of getting nearer to achieving or completing something
+– > to make progress
+# verb. to improve or develop over a period of time; to make progress | synonym: advanced. 
+– > The course allows students to progress at their own speed.
+= > In this case, various parts of the program print progress messages to ‘stdout’.",
+solve,"# to find a way of dealing with a  problem or difficult situation
+– > Attempts are being made to solve the problem of waste disposal. ",
+resolve,"# verb. formal. to find an acceptable solution to a problem or difficulty | synonym: settle 
+– > to resolve an issue/ a dispute / a conflict / a crisis 
+= > This function opens the shared library with ‘dlopen’ and resolved a symbol named ‘module_generate’ form the library with ‘dlsym’.",
+malformed,"# adjective. technical. badly formed or shaped
+= > Either the requested page was malformed or we could not open a module with the indicated name.",
+override,"# verb. 1. to use your authority to reject someone’s decision, order, etc | synonym: overrule
+– > The chairman overrode the committee’s objections and signed the agreement. 
+= > The user may override this with the - - module-dir (-m) option; …",
+manner,"# noun. 1. formal. the way that something is done or happens
+– > She answered in a businesslike manner.
+# idiom: in the manner of someone/something. formal. in a style that is typical of someone or something
+– > a painting in the manner of Raphael.
+= > You could also adapt the main server implementation to serve static files in the manner of a traditional Web server.",
+ongoing,"# adjective. continuing to exist or develop
+– > ongoing debate / discussion / progress 
+– > The police investigation is ongoing.",
+,,
+appendix,# A – Other Development Tools,
