@@ -1446,4 +1446,60 @@ ongoing,"# adjective. continuing to exist or develop
 – > ongoing debate / discussion / progress 
 – > The police investigation is ongoing.",
 ,,
-appendix,# A – Other Development Tools,
+A appendix,# A – Other Development Tools,
+,,
+appendix,"# (plural: appendixes) noun. 1. a small bag of tissue that is attached to the large intestine. In human, the appendix has no clear function
+– > He had to have his appendix out (= removed).
+# 2. the act of giving extra information at the end of a book or document
+– > Full details are given in Appendix 3.
+= > In this appendix, we discuss development tools to find runtime errors such as illegal use of dynamically allocated memory …",
+reveal,"# verb. AW. 1 to make something known to someone | synonym: disclose 
+– > [reveal something (to someone): to reveal a secret
+# 2. to show something that previously could not be seen | synonym: display
+– > He laughed, revealing a line of white teeth.
+= > Analyzing a program’s source code can reveal some of this information; …",
+pedantic,"# adjective. disapproving: too worried about small details or rules
+# adverb form: pedantically 
+= > If you specify the -pedantic option, GCC emits warnings demanded by strict  ANSI C and ISO C++ compliance.",
+emit,"# verb. (tt) formal. to send out something such as light, heat, sound, gas, etc
+– > The metal container began to emit a clicking sound.",
+thorough,"# adjective. done completely; with great attention to detail 
+– > a thorough knowledge of the subject",
+thoroughly,"# adverb. 1. very much; completely 
+– > I can thoroughly recommend it.
+= > To test the program thoroughly, you must run the program using different inputs to ensure that every possible path through the program occurs.",
+annotate,"# verb. to add notes to a book, or text, giving explanation or comments
+= > The first step in profiling a program is to annotate its executable to collect profiling information.
+# adjective form: annotated
+– > an annotated edition
+# noun form: annotation ",
+cumulative,"#  adjective. 1. having a result that increases in strength or importance each time more of something is added 
+– > the cumulative effect of human activity on the would environment",
+presume,"# verb. AW. to suppose that something is true, although you do not have actual proof | synonym: assume
+– > I presume (that) he understand the rules.",
+presumably,"# adverb. AW. used to say that you think that something is probably true
+– > Presumably, this is where the accident happened.
+= > The ‘add’ function was invoked 1,787 times, presumably to compute the product.",
+,,
+B appendix,# Low-Level I/O,
+,,
+disposal,"# noun. AW. the act of get rid of something
+– > a bomb disposal squad 
+# idiom: at your/someone’s disposal: available for use as your prefer/someone prefers
+– > He will have a car at his disposal for the whole month.
+= > C programmer on GNU/Linux have two sets of Input/Output functions at their disposal.",
+truncate,"# verb. formal. to make something shorter, especially by cutting off the top or end
+– > My article was published in truncated form.
+= > Specify O_TRUNC to truncate the opened file, if it previously existed.",
+positive,"# adjective. AW. 1 {confident} thinking about what is good in a situation; feeling confident and sure that something good will happen
+#  5. (of a person) completely sure that something is correct or true
+– > I can not be positive about what time it happened.
+= > After reading this book, we are positive that you will choose to write all your program for GNU/Linux.",
+gap,"# noun. 1. a space between two things or in the middle of something, especially because there is a part missing
+– > She had a gap between her two front teeth.
+= > If you position a file descriptor beyond the end of a file and then write to it, Linux first expands the file to accommodate the ‘gap’ that you created with the lseek operation and then writes to the end of it.",
+accommodate,"# verb. 1. to provide someone with a room or place to sleep, live or sit
+– > The hotel can accommodate up to 500 guests.
+# 2. to provide enough space for something or someone",
+,,
+END,"# note that the appendix C, D, E and F was not covered.",
